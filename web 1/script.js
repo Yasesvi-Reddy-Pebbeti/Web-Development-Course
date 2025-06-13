@@ -1,0 +1,1 @@
+alert("Welcome to the Full Stack Web Dev Course")
