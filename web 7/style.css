@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body {
+    background-color: #f7f9fc;
+    color: #1a1a1a;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+}
+
+/* .red is for class. Here to define a class we use "." and then the class name, We can have multiple classes with same class name.*/
+.red{
+    color: red;
+}
+
+.bg-yellow{
+    background-color: navy;
+}
+
+/* #firstdiv is for id. Here to define a id we use "#" and then the id name, We cannot have multiplee id's with same name.*/
+#firstdiv{
+    /*background-color: red;*/
+
+}

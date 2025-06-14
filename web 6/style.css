@@ -1,0 +1,15 @@
+body{
+    font-family: poppins, sans-serif;
+}
+
+p{
+    background-color: rgb(112, 112, 223);
+}
+
+a{
+    background-color: rgb(117, 230, 117);
+}
+
+div{
+    background-color: red;
+}
